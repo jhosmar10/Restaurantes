@@ -1,0 +1,30 @@
+import restaurantes.Restaurante;
+
+public class GestorRestaurantes {
+
+    public static void aniadirRestaurante(App app) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'aniadirRestaurante'");
+    }
+
+    public static void editarRestaurante(int indice, String newNombre, String newLocalizacion, String newHorario,
+            float newPuntuacion) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'editarRestaurante'");
+    }
+
+    public static void mostrarRestaurantes() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'mostrarRestaurantes'");
+    }
+
+    public static void eliminarRestaurante(int indiceEli) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'eliminarRestaurante'");
+    }
+
+    public static void aniadirRestaurante(app app) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'aniadirRestaurante'");
+    }
+}
